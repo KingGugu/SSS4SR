@@ -15,6 +15,7 @@ SSS/
 │   └── src/                      # Multi-target training framework
 │
 ├── Single_Target_Implementation/
+│   ├── data/                     # Raw datasets
 │   └── src/                      # Single-target training framework
 │
 └── README.md
