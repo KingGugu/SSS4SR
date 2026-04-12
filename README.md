@@ -421,5 +421,10 @@ We thank the authors for releasing high-quality, reproducible implementations.
 ## 7. Citation
 
 ```bibtex
-
+@inproceedings{dang2026pay,
+  title={Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models},
+  author={Dang, Yizhou and Wu, Yifan and Huang, Minhan and Zhao, Chuang and Ma, Lianbo and Guo, Guibing and Wang, Xingwei and Sun, Zhu},
+  journal={Proceedings of the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  year={2026}
+}
 ```
