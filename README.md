@@ -1,6 +1,6 @@
 # SSS4Rec
 
-This repository contains the code used in our SIGIR 2026 paper [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models]().
+This repository contains the code used in our SIGIR 2026 paper [Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models](https://arxiv.org/abs/2604.05309).
 
 ---
 
